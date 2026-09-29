@@ -39,7 +39,7 @@ password-generator/
 
 1. Download or clone the project:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/mahantabhupati1-crypto/PasswordGenerator.git
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser. No build step or installation is needed.
@@ -73,4 +73,3 @@ Suggestions and improvements are welcome. Fork the repository, make your changes
 
 Made with ❤️ by **Bhupati Mahanta**
 
-Original design and code by [Jaimin Patel](https://jaimindev.blogspot.com).
